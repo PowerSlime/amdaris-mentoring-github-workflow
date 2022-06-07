@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/amdaris-mentoring-github-workflow/static/css/main.073c9b0a.css",
-    "main.js": "/amdaris-mentoring-github-workflow/static/js/main.16104555.js",
+    "main.js": "/amdaris-mentoring-github-workflow/static/js/main.521eae7f.js",
     "static/js/787.2bd2d16e.chunk.js": "/amdaris-mentoring-github-workflow/static/js/787.2bd2d16e.chunk.js",
     "static/media/logo.svg": "/amdaris-mentoring-github-workflow/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/amdaris-mentoring-github-workflow/index.html",
     "main.073c9b0a.css.map": "/amdaris-mentoring-github-workflow/static/css/main.073c9b0a.css.map",
-    "main.16104555.js.map": "/amdaris-mentoring-github-workflow/static/js/main.16104555.js.map",
+    "main.521eae7f.js.map": "/amdaris-mentoring-github-workflow/static/js/main.521eae7f.js.map",
     "787.2bd2d16e.chunk.js.map": "/amdaris-mentoring-github-workflow/static/js/787.2bd2d16e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.16104555.js"
+    "static/js/main.521eae7f.js"
   ]
 }
